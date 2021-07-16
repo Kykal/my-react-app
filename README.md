@@ -1,6 +1,6 @@
 # How to run it
 ### Requirements:
-* NodeJS
+* [NodeJS](https://nodejs.org/)
 
 ### Steps:
 1. If using a Windows/MacOS terminal change directory to ``.../my-react-app``, then step 3.
