@@ -10,7 +10,7 @@
 
 ### Website
 
-Hosted with [Amazon Web Services](https://aws.amazon.com/) (Also known as AWS): [my website](https://main.d2oe5b26t2mvhm.amplifyapp.com/)
+Hosted with [Amazon Web Services (AWS)](https://aws.amazon.com/): [my website](https://main.d2oe5b26t2mvhm.amplifyapp.com/)
 
 
 # How to run it
