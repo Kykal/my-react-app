@@ -1,7 +1,7 @@
-[<img align="left" alt="HTML" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"  />][HTML_Site]
-[<img align="left" alt="CSS" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />][CSS_Site]
-[<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][JavaScript_Site]
-[<img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />][React_Site]
+[<img align="middle" alt="HTML" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"  />][HTML_Site]
+[<img align="middle" alt="CSS" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" />][CSS_Site]
+[<img align="middle" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" />][JavaScript_Site]
+[<img align="middle" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" />][React_Site]
 
 [CSS_Site]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [HTML_SITE]: https://developer.mozilla.org/en-US/docs/Web/HTML
