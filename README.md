@@ -8,6 +8,11 @@
 [JavaScript_Site]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [React_Site]: https://reactjs.org/
 
+### Website
+
+Hosted in [AWS](https://aws.amazon.com/): [my website](https://main.d2oe5b26t2mvhm.amplifyapp.com/)
+
+
 # How to run it
 ### Requirements:
 * [NodeJS](https://nodejs.org/)
